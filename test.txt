@@ -1,0 +1,12 @@
+브랜치 생성
+    git branch 브랜치명 
+삭제
+    git branch -D 브랜치명
+브랜치명 변경
+    git branch -m 브랜치명 바꿀이름
+브랜치 이동
+    git checkout 브랜치명
+생성+이동
+    git checkout -b 브랜치
+브랜치 확인
+    git branch
